@@ -12,15 +12,15 @@ Tommy teaches Tommy (and anyone who wants to actually read this) how to code in 
 
 <!-- /MarkdownTOC -->
 
-# JavaScript
+## JavaScript
 
-## Strings and Templates
+### Strings and Templates
 
-## Plotly.js
+### Plotly.js
 
-# TypeScript
+## TypeScript
 
-# License
+## License
 
 Copyright (c) 2023, Tommy P. Keane (https://www.tommypkeane.com)
 
