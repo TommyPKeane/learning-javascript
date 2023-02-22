@@ -54,7 +54,7 @@ const examplePieCharthObj = {
       },
     ];
     const tableLayout = {
-      "title": "Example Pie Chart",
+      "title": "Example Pie Chart Data",
     };
 
     Plotly.newPlot(

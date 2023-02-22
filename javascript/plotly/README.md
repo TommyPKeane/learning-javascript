@@ -5,6 +5,7 @@
 - Setup
 - Running the Code
 - License
+- References
 
 <!-- /MarkdownTOC -->
 
@@ -38,3 +39,8 @@ Note that if you change any of the code, you will have to refresh your browser (
 ## License
 
 See the top-level [LICENSE](../../LICENSE) file for details.
+
+## References
+
+- https://www.npmjs.com/package/http-server
+- https://github.com/plotly/plotly.js/issues/6483
