@@ -4,6 +4,6 @@
         "typescript": "^4.9.5"
     },
     "scripts": {
-        "transpile": "tsc"
+        "transpile": "tsc --target es2022"
     }
 }
