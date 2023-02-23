@@ -22,7 +22,7 @@ As such, most single-file examples will require these steps:
 1. `nvm install` (Optional, first time only)
 1. `direnv allow` (First time only)
 1. `npm install` -- Install Dependencies
-1. `tsc filename.ts` -- Transpile single TypeScript Module to JavaScript Module
+1. `npx tsc filename.ts` -- Transpile single TypeScript Module to JavaScript Module
 1. `node filename.js` -- Run JavaScript Module
 
 <a id="license"></a>
