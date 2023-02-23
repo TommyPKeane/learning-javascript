@@ -13,7 +13,11 @@ class Greeter {
   private _greeting: string;
 
   public constructor(name?: string) {
-    this.name = name;
+    if (name) {
+      this.name = name;
+    } else {
+      this.updateGreeting();
+    }
     return;
   }
 
@@ -39,7 +43,11 @@ class Greeter {
   }
 }
 
-const greeter = new Greeter("world");
-const logMessage = `Greeting: \"${greeter.greeting}\"`;
+const folksyGreeter = new Greeter("y'all");
+const unknownGreeter = new Greeter();
 
-console.log(logMessage);
+const folksyLog = `Folksy Greeting: \"${folksyGreeter.greeting}\"`;
+const unknownLog = `Default Greeting: \"${unknownGreeter.greeting}\"`;
+
+console.log(folksyLog);
+console.log(unknownLog);
