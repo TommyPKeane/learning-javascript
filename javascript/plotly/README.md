@@ -2,13 +2,14 @@
 
 <!-- MarkdownTOC -->
 
-- Setup
-- Running the Code
-- License
-- References
+- [Setup](#setup)
+- [Running the Code](#running-the-code)
+- [License](#license)
+- [References](#references)
 
 <!-- /MarkdownTOC -->
 
+<a id="setup"></a>
 ## Setup
 
 - `nvm install` will make sure that the correct version of Node.js is available
@@ -19,6 +20,7 @@ You can confirm that the above worked by comparing the output of these two comma
 - `node --version`
 - `cat ./.nvmrc`
 
+<a id="running-the-code"></a>
 ## Running the Code
 
 Unlike the pure JavaScript examples, the usage of Plotly.js actually requires a Web Browser, due to the way that the Library has been written 😭😭😭 ... so we need to actually run a local webserver and serve-up a local website through HTML, CSS, and JavaScript in order to most easily and directly see the results of the Plotly.js examples that we're providing here.
@@ -36,10 +38,12 @@ Note that if you change any of the code, you will have to refresh your browser (
 1. `npm install`
 1. `npm run start` (see `package.json`)
 
+<a id="license"></a>
 ## License
 
 See the top-level [LICENSE](../../LICENSE) file for details.
 
+<a id="references"></a>
 ## References
 
 - https://www.npmjs.com/package/http-server

@@ -6,13 +6,14 @@ I've been doing various amounts of JavaScript coding since 2004-ish in personal,
 
 <!-- MarkdownTOC -->
 
-- Setup
-- JavaScript
-- TypeScript
-- License
+- [Setup](#setup)
+- [JavaScript](#javascript)
+- [TypeScript](#typescript)
+- [License](#license)
 
 <!-- /MarkdownTOC -->
 
+<a id="setup"></a>
 ## Setup
 
 This repo relies on `nvm` and `direnv` to create directory-local "projects", which establish a fixed version of Node.js to use as the JavaScript interpreter (runtime) for testing the provided examples. Some of these may also use `npm` to install packages (third-party libraries), but instructions will be provided in a README for each project.
@@ -68,14 +69,17 @@ As a pre-cursor to calling `direnv allow`, you should make sure that you have th
 
 If you want to change/update the version of Node.js, you can run the command `nvm ls-remote` to be shown all the available versions of Node.js which you can install.
 
+<a id="javascript"></a>
 ## JavaScript
 
 These directories under the `javascript` folder contain different examples of pure JavaScript (ECMAScript) syntax, which can all be run with Node.js, per the local configuration through `nvm` and `direnv`.
 
+<a id="typescript"></a>
 ## TypeScript
 
 These directories under the `typescript` folder contain different examples of TypeScript syntax, which can all be run with Node.js after being transpiled from TypeScript to JavaScript through the documented process in each README.
 
+<a id="license"></a>
 ## License
 
 Copyright (c) 2023, Tommy P. Keane (https://www.tommypkeane.com)
