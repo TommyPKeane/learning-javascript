@@ -6,6 +6,7 @@ I've been doing various amounts of JavaScript coding since 2004-ish in personal,
 
 <!-- MarkdownTOC -->
 
+- [Setup](#setup)
 - [What is JavaScript \(ECMAScript\)?](#what-is-javascript-ecmascript)
 - [What is TypeScript?](#what-is-typescript)
 - [What's this "tommy teaches tommy" thing all about?](#whats-this-tommy-teaches-tommy-thing-all-about)
@@ -14,6 +15,7 @@ I've been doing various amounts of JavaScript coding since 2004-ish in personal,
 <!-- /MarkdownTOC -->
 
 <a id="setup"></a>
+## Setup
 
 See the [`CONTRIBUTING.md`](./CONTRIBUTING.md) file for the overall setup design and details about this repository, or how to make sure your system is setup with any prerequisites.
 
@@ -52,6 +54,8 @@ Hi, I'm the tommy; it's me. __tommy teaches tommy__ is just a phrase I like to u
   So, this is __tommy teaches tommy__ -- adverb laden, overly confidently written, and ever-evolving reference materials on various topics with solipsistic priorities and varying degrees of quality.
 
   But please feel free to use any of this for yourself, and you're more than welcome to secretly/silently watch me flail here out in the open, or go ahead and reach out if you have any questions, comments, suggestions, corrections, or whatever. Just please also take it all with a bit of safety-conscious cynicism ("trust but verify") before you use any of the information here to do anything important.
+
+  > _"gotcha. i ain't reading all that. i'm happy for you, though. or sorry that that happend."_
 
 </details>
 
