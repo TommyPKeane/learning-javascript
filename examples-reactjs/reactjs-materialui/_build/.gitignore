@@ -1,0 +1,5 @@
+# Ignore Everything except gitignore
+**/*
+!.gitignore
+
+# Add any other Unignores Here with `!` Character
